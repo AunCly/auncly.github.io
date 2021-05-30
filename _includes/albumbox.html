@@ -1,0 +1,26 @@
+<!-- begin album -->
+{% assign author = site.authors[album.author] %}
+
+<div class="blog-grid-item">
+	<div class="card h-100">
+		<div class="maxthumb">
+			<a href="{{ site.baseurl }}{{ album.url }}">
+				{% if album.image %}
+
+				{% if site.lazyimages == "enabled" %}
+				<img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if album.image contains "://" %}{{ album.image }}{% else %}{{ site.baseurl }}/{{ album.image }}{% endif %}" alt="{{ album.title }}">
+				{% else %}
+				<img class="img-thumb" src="{% if album.image contains "://" %}{{ album.image }}{% else %}{{ site.baseurl }}/{{ album.image }}{% endif %}" alt="{{ album.title }}">
+				{% endif %}
+
+				{% endif %}
+			</a>
+		</div>
+		<div class="card-body">
+			<h2 class="card-title">
+				<a class="text-dark" href="{{ site.baseurl }}{{ album.url }}">{{ album.title }}</a>
+			</h2>
+		</div>
+	</div>
+</div>
+<!-- end album -->

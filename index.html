@@ -1,0 +1,41 @@
+---
+layout: page
+main: true
+title: Auncly
+subtitle : Développeur web Pyrénéen <i class="fad fa-mountains"></i> à La Rochelle <i class="fad fa-chess-rook-alt"></i>.
+comments : false
+---
+
+<div class="entry-featured-image">
+	<img class="featured-image image-shadow" src="/assets/images/home/auncly.jpg">
+</div>
+
+<h2>Les derniers articles</h2>
+<div class="blog-grid-container">
+	{% for post in site.posts limit:3 %}
+	{% include postbox.html %}
+	{% endfor %}
+</div>
+
+<p class="text-center">
+	<a href="/posts" class="btn btn-dark">Voir le reste</a>
+</p>
+
+<!-- Posts Index
+================================================== -->
+
+<h2>Mes jeux du moment</h2>
+<div class="blog-grid-container">
+	{% for game in site.games %}
+	{% include gamebox.html %}
+	{% endfor %}
+</div>
+
+<h2>L'album du moment</h2>
+<div class="blog-grid-container">
+	{% for album in site.albums %}
+	{% include albumbox.html %}
+	{% endfor %}
+</div>
+
+

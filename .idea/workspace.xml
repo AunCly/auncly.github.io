@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/assets/images/posts/modefolio/albertini_flux_auto.php.html" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1s4RyPeZFG0jbcfOu71zQimytsg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts/github-readme" />
+      <recent name="$PROJECT_DIR$/assets/images/posts/lego-mindstorms" />
+      <recent name="$PROJECT_DIR$/assets/images/posts/modefolio" />
+      <recent name="$PROJECT_DIR$/assets/images/posts/modefolio/gallery" />
+      <recent name="$PROJECT_DIR$/assets/images/posts/welcome" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="" />
+      <created>1620130131883</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1620130131883</updated>
+      <workItem from="1620130133335" duration="5759000" />
+      <workItem from="1620137865980" duration="6004000" />
+      <workItem from="1620235591928" duration="17668000" />
+      <workItem from="1620641722101" duration="70410000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="100" y="29" width="1480" height="915" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620139327147">
+      <screen x="0" y="25" width="1680" height="1025" />
+    </state>
+    <state x="100" y="29" width="1480" height="915" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.25.1680.1025@0.25.1680.1025" timestamp="1620139327147" />
+    <state x="4138" y="213" width="844" height="680" key="find.popup" timestamp="1622363199938">
+      <screen x="3600" y="25" width="1920" height="1055" />
+    </state>
+    <state x="471" y="187" width="738" height="676" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1620136767014" />
+    <state x="4138" y="213" width="844" height="680" key="find.popup/1680.25.1920.1055/0.25.1680.1025/3600.25.1920.1055@3600.25.1920.1055" timestamp="1620394378527" />
+    <state x="2218" y="213" width="844" height="680" key="find.popup/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1621846286139" />
+    <state x="4138" y="213" width="844" height="680" key="find.popup/3600.25.1920.1055/0.25.1680.1025/1680.25.1920.1055@3600.25.1920.1055" timestamp="1622363199938" />
+    <state x="4141" y="48" width="838" height="1032" key="search.everywhere.popup" timestamp="1622362208191">
+      <screen x="3600" y="25" width="1920" height="1055" />
+    </state>
+    <state x="4141" y="48" width="838" height="1032" key="search.everywhere.popup/1680.25.1920.1055/0.25.1680.1025/3600.25.1920.1055@3600.25.1920.1055" timestamp="1620383011590" />
+    <state x="2221" y="48" width="838" height="1032" key="search.everywhere.popup/1680.25.1920.1055/0.25.1680.1025@1680.25.1920.1055" timestamp="1621846475867" />
+    <state x="4141" y="48" width="838" height="1032" key="search.everywhere.popup/3600.25.1920.1055/0.25.1680.1025/1680.25.1920.1055@3600.25.1920.1055" timestamp="1622362208191" />
+  </component>
+</project>

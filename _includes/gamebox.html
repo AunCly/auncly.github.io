@@ -1,0 +1,26 @@
+<!-- begin game -->
+{% assign author = site.authors[game.author] %}
+
+<div class="blog-grid-item">
+	<div class="card h-100">
+		<div class="maxthumb">
+			<a href="{{ site.baseurl }}{{ game.url }}">
+				{% if game.image %}
+
+					{% if site.lazyimages == "enabled" %}
+					<img class="img-thumb lazyimg" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAMAAAACCAQAAAA3fa6RAAAADklEQVR42mNkAANGCAUAACMAA2w/AMgAAAAASUVORK5CYII=" data-src="{% if game.image contains "://" %}{{ game.image }}{% else %}{{ site.baseurl }}/{{ game.image }}{% endif %}" alt="{{ game.title }}">
+					{% else %}
+					<img class="img-thumb" src="{% if game.image contains "://" %}{{ game.image }}{% else %}{{ site.baseurl }}/{{ game.image }}{% endif %}" alt="{{ game.title }}">
+					{% endif %}
+
+				{% endif %}
+			</a>
+		</div>
+		<div class="card-body">
+			<h2 class="card-title">
+				<a class="text-dark" href="{{ site.baseurl }}{{ game.url }}">{{ game.title }}</a>
+			</h2>
+		</div>
+	</div>
+</div>
+<!-- end game -->
