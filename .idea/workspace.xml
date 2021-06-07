@@ -5,7 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/images/posts/modefolio/albertini_flux_auto.php.html" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2021-06-07-summary-daysofcode-weekone.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekone/main.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-01-welcome.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-01-welcome.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-05-github-readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-05-github-readme.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-10-lego-mindstorms.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-10-lego-mindstorms.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-15-photomodefolio.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-15-photomodefolio.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/2020-05-31-hundred-days-of-code-project.md" beforeDir="false" afterPath="$PROJECT_DIR$/_posts/2021-05-31-hundred-days-of-code-project.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,23 +34,24 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekone" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/assets" />
-      <recent name="$PROJECT_DIR$/assets/css" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/assets/images/posts/github-readme" />
       <recent name="$PROJECT_DIR$/assets/images/posts/lego-mindstorms" />
       <recent name="$PROJECT_DIR$/assets/images/posts/modefolio" />
       <recent name="$PROJECT_DIR$/assets/images/posts/modefolio/gallery" />
       <recent name="$PROJECT_DIR$/assets/images/posts/welcome" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekone" />
+      <recent name="$PROJECT_DIR$/assets/images" />
+      <recent name="$PROJECT_DIR$/assets" />
+      <recent name="$PROJECT_DIR$/assets/css" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -58,6 +66,11 @@
       <workItem from="1620137865980" duration="6004000" />
       <workItem from="1620235591928" duration="17668000" />
       <workItem from="1620641722101" duration="70410000" />
+      <workItem from="1622364532885" duration="1295000" />
+      <workItem from="1622487655554" duration="145000" />
+      <workItem from="1622529157983" duration="534000" />
+      <workItem from="1623074251633" duration="2346000" />
+      <workItem from="1623096582617" duration="3110000" />
     </task>
     <servers />
   </component>
@@ -65,6 +78,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="4156" y="343" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1623080479327">
+      <screen x="3600" y="25" width="1920" height="1055" />
+    </state>
+    <state x="4156" y="343" key="#com.intellij.fileTypes.FileTypeChooser/3600.25.1920.1055/0.25.1680.1025/1680.25.1920.1055@3600.25.1920.1055" timestamp="1623080479326" />
     <state x="100" y="29" width="1480" height="915" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1620139327147">
       <screen x="0" y="25" width="1680" height="1025" />
     </state>
