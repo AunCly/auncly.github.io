@@ -2,7 +2,7 @@
 layout: post
 title:  "100DaysOfCode - semaine 1"
 categories: [ Dev, 100DaysOfCode ]
-image: assets/images/posts/hundred-days-of-code-project/main.jpg
+image: assets/images/posts/summary-daysofcode-weekone/main.jpg
 comments: false
 excerpt: Bilan de la première semaine
 ---
