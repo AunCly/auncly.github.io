@@ -73,7 +73,7 @@ Merci les suggestions faites par Codingame lors de la présentation du puzzle.
 
 Au final c'est bien 3 challenges et un niveau supplémentaire que j'ai validé cette semaine.  
 
-Cap pour la mission "Niveau 20" !
+Cap sur la mission "Niveau 20" !
 
 ![Code royale](/assets/images/posts/summary-daysofcode-weekfour/level_16.png)
 
