@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_albums/magnifique.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_games/monster-hunter-iceborne.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2021-09-15-daysofcode-end.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2022-02-01-google-hascode-practice.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/_2022-01-19-music-score.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_games/elden-ring.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2022-04-11-music-score.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/albums/multitude.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/games/elden-ring.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/images/posts/music-scores/main.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile" beforeDir="false" afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Gemfile.lock" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/_albums/leviathan.md" beforeDir="false" afterPath="$PROJECT_DIR$/_albums/_leviathan.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_games/minecraft-dungeons.md" beforeDir="false" afterPath="$PROJECT_DIR$/_games/_minecraft-dungeons.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_games/ratchet_and_clank.md" beforeDir="false" afterPath="$PROJECT_DIR$/_games/_ratchet_and_clank.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_posts/_2022-01-19-music-score.md" beforeDir="false" afterPath="$PROJECT_DIR$/_albums/multitude.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +27,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/docker-compose.yml" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Gemfile" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/.gitignore" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/LICENSE.txt" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -48,7 +46,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/images/games" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
@@ -60,18 +58,18 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/games" />
+      <recent name="$PROJECT_DIR$/assets/images/albums" />
       <recent name="$PROJECT_DIR$/_games" />
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekthree" />
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekone" />
-      <recent name="$PROJECT_DIR$/assets/images" />
-      <recent name="$PROJECT_DIR$/assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts/music-scores" />
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-week-five-and-six" />
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysodcode-week-five-and-six" />
       <recent name="$PROJECT_DIR$/assets/images/posts" />
       <recent name="$PROJECT_DIR$/assets/images/games" />
-      <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekfour" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -100,7 +98,18 @@
       <workItem from="1643703379636" duration="6960000" />
       <workItem from="1643803922917" duration="18188000" />
       <workItem from="1644836205362" duration="4246000" />
-      <workItem from="1644928902189" duration="4316000" />
+      <workItem from="1644928902189" duration="9007000" />
+      <workItem from="1646134868713" duration="9992000" />
+      <workItem from="1646995196001" duration="297000" />
+      <workItem from="1646995508006" duration="41000" />
+      <workItem from="1646995568255" duration="163000" />
+      <workItem from="1647420202229" duration="1170000" />
+      <workItem from="1647424600270" duration="12825000" />
+      <workItem from="1649681376117" duration="598000" />
+      <workItem from="1649682086492" duration="1004000" />
+      <workItem from="1649690148487" duration="988000" />
+      <workItem from="1649923933905" duration="1196000" />
+      <workItem from="1650347482583" duration="597000" />
     </task>
     <servers />
   </component>

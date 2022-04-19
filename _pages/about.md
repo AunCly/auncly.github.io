@@ -57,9 +57,9 @@ Avril à Septembre 2014 - Quimper (29)
 -----------
 ## Environnement de travail et compétences 
 Environnement de travail : MacOs, Phpstorm, Fork, Slack, Suite Office, Teams  
-Utilisation quotidienne : Php, Sql, Laravel, Git, Bootstrap, Jira  
+Utilisation quotidienne : Php, Sql, Laravel, Python, Git, Bootstrap, Jira  
 Utilisation régulière : Docker, Javascript, Postman, Jekyll  
-Utilisation occasionnelle : Vuejs, Scss, Python, Adobe (Photoshop, Illustrator, XD)
+Utilisation occasionnelle : Vuejs, Scss, Adobe (Photoshop, Illustrator, XD)
 
 -----------
 ## Centres d'intêrets 
