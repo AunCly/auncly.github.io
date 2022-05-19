@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_posts/2022-05-09-spring-challenge-2022.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -58,11 +55,11 @@
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-weekone" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/images/posts/spring-challenge-2022" />
       <recent name="$PROJECT_DIR$/assets/images/posts/music-scores" />
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysofcode-week-five-and-six" />
       <recent name="$PROJECT_DIR$/assets/images/posts/summary-daysodcode-week-five-and-six" />
       <recent name="$PROJECT_DIR$/assets/images/posts" />
-      <recent name="$PROJECT_DIR$/assets/images/games" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -105,7 +102,7 @@
       <workItem from="1650347482583" duration="1288000" />
       <workItem from="1652081019953" duration="3708000" />
       <workItem from="1652445126153" duration="762000" />
-      <workItem from="1652767980973" duration="10470000" />
+      <workItem from="1652767980973" duration="10612000" />
     </task>
     <servers />
   </component>
