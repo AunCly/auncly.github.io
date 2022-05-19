@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="68f5381c-19fd-488e-a1dd-1d115a23c47d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/_games/elden-ring.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/_posts/2022-04-11-music-score.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/albums/multitude.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/games/elden-ring.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/images/posts/music-scores/main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_posts/2022-05-09-spring-challenge-2022.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_layouts/default.html" beforeDir="false" afterPath="$PROJECT_DIR$/_layouts/default.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_pages/about.md" beforeDir="false" afterPath="$PROJECT_DIR$/_pages/about.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_posts/_2022-01-19-music-score.md" beforeDir="false" afterPath="$PROJECT_DIR$/_albums/multitude.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,7 +102,10 @@
       <workItem from="1649682086492" duration="1004000" />
       <workItem from="1649690148487" duration="988000" />
       <workItem from="1649923933905" duration="1196000" />
-      <workItem from="1650347482583" duration="597000" />
+      <workItem from="1650347482583" duration="1288000" />
+      <workItem from="1652081019953" duration="3708000" />
+      <workItem from="1652445126153" duration="762000" />
+      <workItem from="1652767980973" duration="10470000" />
     </task>
     <servers />
   </component>
